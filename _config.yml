@@ -164,7 +164,6 @@ plugins:
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
-  - jekyll-paginate
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
