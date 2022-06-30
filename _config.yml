@@ -95,8 +95,8 @@ blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # Comments
 disqus_shortname: al-folio # put your disqus shortname
@@ -165,6 +165,7 @@ plugins:
   - jekyll-feed
   - jekyll-imagemagick
   - jekyll-minifier
+  - jekyll-paginate
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
