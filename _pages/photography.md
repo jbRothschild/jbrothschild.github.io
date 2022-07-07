@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /photography/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: a collection of my favourite photos that I've taken and little stories about them
 nav: true
 nav_order: 6
 ---
