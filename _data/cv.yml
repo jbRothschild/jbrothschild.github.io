@@ -2,96 +2,94 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Jeremy Rothschild
     - name: Languages
-      value: English, German
+      value: English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, expected
+      institution: University of Toronto, Toronto, Canada
+      year: 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "I worked on solving stochastic models of population dynamics analytically and investigated the use of various approximations
+          for analytically intractable models, to ascertain in which biological regimes certain models are valid."
+        - I investigated mechanisms of receptor signaling that maximize accuracy estimation of external product concentration by the cell.
+        - "In a collaboration, I built simulations of nanoparticles in the tumor microenvironment to determine the dynamics of these
+          particles in cancerous tissue and investigating various pathways of nanoparticle absorption by tumors."
+    - title: MSc
+      institution: McGill University, Montréal, Canada
+      year: 2017
       description:
-        - Description 1.
-        - Description 2.
+        - Advanced computational tools to predict the evolutionary path of the genetic network between various species of the Dipteran family.
+        - Developed a mathematical framework of the genetic network of drosophila during embryogenesis and fit these models to experimental data.
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Graduate Researcher
+      institution: Department of Physics, University of Toronto
+      year: 2017 - 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Conceptualized research projects addressing the formation and dynamics of stochastic communities of interacting species. Conducted research
+          on population models incorporating statistical theories, simulations and agent-based models to explore coexistence dynamics"
+        - "Collaborated as in-house theoretician and liaison for 2 large experimental labs at the University of Toronto, publishing models
+          of physical systems for both groups"
+        - "Presented research at major scientific conferences such as the American Physical Society and the Biophysical Society of Canada"
+    - title: Graduate Researcher
+      institution: Department of Physics, McGill University
+      year: 2014 - 2017
       description:
-        - Description 1.
-        - Description 2.
+        - "Investigated the evolutionary path of fruit flies and their ancestral relatives using a novel genetic algorithm framework"
+        - "Implemented and maintained a genetic algorithm interlacing C and Python, debugging archival code to merge"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Leadership Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Founder
+      institution: Humans Learning Machine Learning, University of Toronto
+      year: 2017 - 2022
+      description:
+        - Founded and promoted the growth of HLML, a graduate student organization dedicated to self-teaching and skill-sharing of data science topics
+        - "Secured over $5,000 in funding for the professional development of members such as funding invited speakers, hackathons, cloud computing
+          accounts and MOOCs"
+        - "Organized weekly tutorials and coding sessions for 10-20 participants. Created and taught 15+ tutorials for members on advanced topics
+          such as Transformers, Diffusion models, Laplacian Eigenmaps, and SQL"
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Teaching Assistant
+      institution: University of Toronto
+      year: 2017 - 2022
+      description:
+        - Developed and delivered novel teaching materials including tutorials and written notes in 10+ courses at the undergraduate and graduate level
+        - "Assessed the assignments of trainees, providing appropriate feedback and corrections to reports. Supplemented more personalized
+          evaluation to struggling trainees"
+        - Served as intermediary between course instructors and course attendees, communicating expectations between the parties
+        - Volunteered for 3 years as a mentor for aspiring graduate students
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Chair
+      institution: University of Toronto Graduate Student Union
+      year: 2019 - 2020
+      description:
+        - "Managed all meetings of the student union, synthesizing the desires of over 50 directors into concise motions. Ensured that
+          discussions were focused whilst remaining inclusive"
+        - Mediated difficult discussions between confrontational groups to foster orderly and effective organizational projects
+
+#- title: Academic/Professional Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Photography, Board Games, Soccer, Creative Writing, Graphic Novels
+    - <u>Travel:</u> Yes, please!
+    - <u>Novels:</u> Dune, Lord of the Rings, War and Peace, Les Trois Mousquetaires, The Dark Tower, Go Tell It on the Mountain
