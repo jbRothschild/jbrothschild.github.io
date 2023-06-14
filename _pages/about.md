@@ -12,21 +12,18 @@ profile:
     <p>Toronto, ON</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome to my own little nook on the internet. 
+As a recent PhD graduate in Physics, I'm excited to be taking a dive into new personal projects and professional experiences beyond academia.
+This website chronicles my scientific and creative journey up to this point in time, I invite you to explore the many things I have proudly created and the collaborative efforts I've been lucky to be involved in.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research journey has been marked by a deep fascination with understanding the intricate mechanisms that govern how interacting communities of physical, biological or financial entities form and develop.
+Beyond this academic work, I've been privileged to work on a diverse set of projects that incorporated my quantiative experience with my passions.
+Over the past 5 years, I have been fostering a student community whose mission is self-learning of principles in data science, participating in many of these hands-on projects in collaboration with peers.
+From analyzing complex systems at the interface of physics and biology to generating lyrics to fictitious Lil Pump songs, I've found meaning and pleasure in delving into complex models to create  and gain insights into data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Driven to use my expertise in a meaningful way, my focus is shifting towards harnessing the power of data science for social good.
+Recognizing the immense potential that lies within data-driven approaches, I hope to use my knowledge to tackle complex social issues such as wealth disparities and environmental sustainability. 
+I firmly believe that by analyzing and interpreting data through a social lens, we can foster evidence-based decision-making that drives tangible solutions addressing pressing social and environmental challenges.
