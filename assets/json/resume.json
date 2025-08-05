@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Jeremy Rothschild",
+    "label": "Research Scientist",
     "image": "",
     "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "phone": false,
+    "url": "http://rothschild.science",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": false,
+      "postalCode": false,
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
