@@ -30,12 +30,7 @@
       "startDate": "2023-10-28",
       "endDate": "2025-05-19",
       "summary": "Led groundbreaking work integrating thermal computing and machine learning to reduce generative AI energy costs, while optimizing simulation algorithms, developing statistical modeling tools, managing HPC infrastructure, mentoring interns, and driving both research and operational innovation across physics, software, and hardware domains.",
-      "highlights": [
-        "Thermal Computing Innovation",
-        "Stochastic Simulation Optimization",
-        "Energy-Efficient AI",
-        "Statistical Modeling Tools"
-      ]
+      "highlights": ["Thermal Computing Innovation", "Stochastic Simulation Optimization", "Energy-Efficient AI", "Statistical Modeling Tools"]
     },
     {
       "name": "Data Insights Toronto",
@@ -44,11 +39,7 @@
       "startDate": "2023-05-01",
       "endDate": "2024-12-31",
       "summary": "Drove business and community growth by securing funding, forming strategic partnerships, delivering data-driven technical solutions, and founding a machine learning community that fostered advanced skill development through workshops on cutting-edge topics.",
-      "highlights": [
-        "Data-Driven Consulting",
-        "Client Acquisition Strategies",
-        "Technical Leadership"
-      ]
+      "highlights": ["Data-Driven Consulting", "Client Acquisition Strategies", "Technical Leadership"]
     },
     {
       "name": "Physics Department, University of Toronto",
@@ -57,12 +48,7 @@
       "startDate": "2017-07-01",
       "endDate": "2023-05-30",
       "summary": "Advanced the field of stochastic biophysics through original research and novel population models, while promoting open science by contributing code, publishing in high-impact journals, and presenting at international conferences.",
-      "highlights": [
-        "Stochastic Biophysics",
-        "Open Science",
-        "Population Dynamics",
-        "Science Communication"
-      ]
+      "highlights": ["Stochastic Biophysics", "Open Science", "Population Dynamics", "Science Communication"]
     },
     {
       "name": "CUPE Local 3902",
@@ -71,11 +57,7 @@
       "startDate": "2018-06-01",
       "endDate": "2019-05-31",
       "summary": "Provided strategic leadership representing 8,000 teaching members, managing a multimillion-dollar budget, guiding policy at the board level, leading a team, and delivering impactful union initiatives that enhanced member support and organizational effectiveness.",
-      "highlights": [
-        "Democratic Representation",
-        "Board-Level Decision Making",
-        "Project Management"
-      ]
+      "highlights": ["Democratic Representation", "Board-Level Decision Making", "Project Management"]
     }
   ],
   "education": [
@@ -127,24 +109,12 @@
     {
       "name": "High Performance Scientific Computing",
       "icon": "fa-solid fa-computer",
-      "keywords": [
-        "Scientific Computing",
-        "Parallel Computing",
-        "Computational Physics",
-        "Python",
-        "C/C++"
-      ]
+      "keywords": ["Scientific Computing", "Parallel Computing", "Computational Physics", "Python", "C/C++"]
     },
     {
       "name": "Machine Learning & Data Science",
       "icon": "fa-solid fa-circle-nodes",
-      "keywords": [
-        "Statistical & Causal Inference",
-        "Neural Networks",
-        "Data Analysis",
-        "Model Deployment",
-        "Data Visualization"
-      ]
+      "keywords": ["Statistical & Causal Inference", "Neural Networks", "Data Analysis", "Model Deployment", "Data Visualization"]
     }
   ],
   "languages": [
@@ -163,20 +133,12 @@
     {
       "name": "Travel",
       "icon": "fa-solid fa-plane",
-      "keywords": [
-        "Trekking",
-        "Wildlife",
-        "Food & Drink"
-      ]
+      "keywords": ["Trekking", "Wildlife", "Food & Drink"]
     },
     {
       "name": "Photography",
       "icon": "fa-solid fa-camera",
-      "keywords": [
-        "Wildlife Photography",
-        "Black and White",
-        "Portrait"
-      ]
+      "keywords": ["Wildlife Photography", "Black and White", "Portrait"]
     }
   ]
 }

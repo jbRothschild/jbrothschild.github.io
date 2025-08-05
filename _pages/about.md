@@ -12,10 +12,10 @@ profile:
     <p>Toronto, ON</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-Welcome to my own little nook on the internet. 
+Welcome to my own little nook on the internet.
 As a recent PhD graduate in Physics, I'm excited to be taking a dive into new personal projects and professional experiences beyond academia.
 This website chronicles my scientific and creative journey up to this point in time, I invite you to explore the many things I have proudly created and the collaborative efforts I've been lucky to be involved in.
 
@@ -24,5 +24,5 @@ Beyond this academic work, I've been privileged to work on a diverse set of proj
 From analyzing complex systems at the interface of physics and biology to generating lyrics to fictitious Lil Pump songs, I've found meaning and pleasure in delving into complex models to create and gain insights into data.
 
 Driven to use my expertise in a meaningful way, my focus is shifting towards harnessing the power of data science for social good.
-Recognizing the immense potential that lies within data-driven approaches, I hope to use my knowledge to tackle complex social issues such as wealth disparities and environmental sustainability. 
+Recognizing the immense potential that lies within data-driven approaches, I hope to use my knowledge to tackle complex social issues such as wealth disparities and environmental sustainability.
 I firmly believe that by analyzing and interpreting data through a social lens, we can foster evidence-based decision-making that drives tangible solutions addressing pressing social and environmental challenges.
